@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\IA\AIBoard.cs">
+    <Files>
+      <File FileName="Assets\Scripts\IA\AIBoard.cs" Line="118" Column="50" />
+      <File FileName="Assets\Scripts\Managers\ScoreManager.cs" Line="30" Column="49" />
+      <File FileName="Assets\Scripts\Utilities\MovementHandler.cs" Line="26" Column="6" />
+      <File FileName="Assets\Scripts\IA\AIManager.cs" Line="93" Column="18" />
+      <File FileName="Assets\Scripts\Managers\PlayerManager.cs" Line="88" Column="33" />
+      <File FileName="Assets\Scripts\Managers\GameManager.cs" Line="66" Column="37" />
+      <File FileName="Assets\Scripts\Managers\CanvasManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Utilities\PossibleMovesCalculator.cs" Line="22" Column="2" />
+      <File FileName="Assets\Scripts\Board\Board.cs" Line="167" Column="32" />
+      <File FileName="Assets\Scripts\Utilities\MoveMarble.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IA\hash\ZobristKeys.cs" Line="57" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Escritorio\Abalone\Abalone4\AI_Abalone\Assets\Scripts\IA\AIBoard.cs" line="202" column="1" />
+      <Breakpoint file="D:\Escritorio\Abalone\Abalone4\AI_Abalone\Assets\Scripts\IA\AIBoard.cs" line="206" column="1" />
+      <Breakpoint file="D:\Escritorio\Abalone\Abalone4\AI_Abalone\Assets\Scripts\IA\AIBoard.cs" line="207" column="1" />
+      <Breakpoint file="D:\Escritorio\Abalone\Abalone4\AI_Abalone\Assets\Scripts\IA\AIBoard.cs" line="214" column="1" />
+      <Breakpoint file="D:\Escritorio\Abalone\Abalone4\AI_Abalone\Assets\Scripts\IA\AIBoard.cs" line="644" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

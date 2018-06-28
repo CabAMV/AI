@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_Abalone", "AI_Abalone.csproj", "{824FBC41-A2BE-60F7-96BB-2F9AB518E274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_Abalone.Editor", "AI_Abalone.Editor.csproj", "{CFEBA2DD-F7D6-5F3A-59F5-D84ECAB33FF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{824FBC41-A2BE-60F7-96BB-2F9AB518E274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824FBC41-A2BE-60F7-96BB-2F9AB518E274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824FBC41-A2BE-60F7-96BB-2F9AB518E274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824FBC41-A2BE-60F7-96BB-2F9AB518E274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEBA2DD-F7D6-5F3A-59F5-D84ECAB33FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEBA2DD-F7D6-5F3A-59F5-D84ECAB33FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEBA2DD-F7D6-5F3A-59F5-D84ECAB33FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEBA2DD-F7D6-5F3A-59F5-D84ECAB33FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
